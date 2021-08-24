@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ActiveLayer</key>
+		<integer>1</integer>
+		<key>InvisibleGlyphsVisible</key>
+		<false/>
+		<key>ModeBarVisible</key>
+		<integer>1</integer>
+		<key>NavigationBarVisible</key>
+		<integer>1</integer>
+		<key>RulerVisible</key>
+		<true/>
+		<key>SectionIndex</key>
+		<integer>0</integer>
+		<key>Sections</key>
+		<array>
+			<dict>
+				<key>Mode</key>
+				<integer>1</integer>
+				<key>Ranges</key>
+				<array>
+					<string>{4, 0}</string>
+				</array>
+				<key>Views</key>
+				<array>
+					<dict>
+						<key>LayoutGridVisible</key>
+						<true/>
+						<key>Page</key>
+						<integer>0</integer>
+						<key>PageGuidesVisible</key>
+						<true/>
+						<key>PrintAreaVisible</key>
+						<false/>
+						<key>Scale</key>
+						<real>1.25</real>
+						<key>ScalingMode</key>
+						<integer>0</integer>
+						<key>VisiblePoint</key>
+						<string>{0, 0}</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+		<key>StatusBarVisible</key>
+		<integer>1</integer>
+		<key>StructureViewVisible</key>
+		<integer>0</integer>
+		<key>StructureViewWidth</key>
+		<real>200</real>
+		<key>WindowFrame</key>
+		<string>{{318, 45}, {805, 832}}</string>
+	</dict>
+</array>
+</plist>
